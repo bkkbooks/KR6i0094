@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0094/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 維摩疏釋前小序抄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2775.xml
+    old_id: T85n2775
+hash: sha256:d4fb984f392eacf0f9ee5fc3dcc87e32110f07a1779e7054c686ddcb2e85b49b
